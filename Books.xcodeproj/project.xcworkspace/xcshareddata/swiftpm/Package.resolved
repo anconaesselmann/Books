@@ -1,0 +1,78 @@
+{
+  "originHash" : "a14c5f4b9f84ea94011b069479ff87470d41d239703b9eae84c225e010b004c2",
+  "pins" : [
+    {
+      "identity" : "asyncservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/AsyncService",
+      "state" : {
+        "revision" : "eb135bf5fe717593fca63ab53b3ef2644960d739",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "debounced",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/Debounced",
+      "state" : {
+        "revision" : "621082e19d2af667c90ce61ab95fd7a7bb5a7ecf",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "ipsum",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/Ipsum",
+      "state" : {
+        "revision" : "096b4deda1d1593b6b1de699fd31afc1ccea85a0",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "loadableimageview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/LoadableImageView",
+      "state" : {
+        "revision" : "7731366d1dcf69283a80fd0c04096816b40a7cc0",
+        "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "loadableview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/LoadableView",
+      "state" : {
+        "revision" : "a63273f2ec71b9c9fc45f71cc6954cfd53d187c3",
+        "version" : "0.9.2"
+      }
+    },
+    {
+      "identity" : "splash",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JohnSundell/Splash",
+      "state" : {
+        "revision" : "7f4df436eb78fe64fe2c32c58006e9949fa28ad8",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "swiftuimarkdownview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/SwiftUIMarkdownView",
+      "state" : {
+        "revision" : "087f952582f620958081055961c2bc7192c69e73",
+        "version" : "0.1.4"
+      }
+    },
+    {
+      "identity" : "swiftuirouter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anconaesselmann/SwiftUIRouter",
+      "state" : {
+        "revision" : "ac7ed277c039fd3a43ba015584eaea207687998b",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
